@@ -1,0 +1,119 @@
+.boise{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:500px;
+  height:450px;
+}
+.tamarack{
+  font-family: cooper black;
+  font-size:38px;
+}
+.citation{
+  float:right;
+}
+.timage{
+  float:right;
+  width:500px;
+  height:450px;
+}
+.generic{
+  float:right;
+
+}
+.snow{
+  float:right;
+  width:500px;
+  height:450px;
+}
+.basin{
+  float:center;
+  font-size:30px;
+  color:white;
+}
+.bogus{
+  font-family: coope black;
+  font-size:38px;
+}
+.ol{
+  color:white;
+  float:center;
+  list-style-type: none;
+  
+    ;
+}
+body{
+  background-color: forestgreen;
+  font-family:Cooper Black;
+}
+.bar{
+  text-align:center;
+}
+ul{list-style-type: none;}    
+
+  li {
+    float: left;
+  }
+
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+
+}
+
+}
+P{
+  color: black;
+
+}
+
+u{
+  text-decoration-color: skyblue;
+
+}
+
+h1{
+  color: skyblue;
+  text-align: center;
+  font-size:50px;
+}
+h2{
+  color: azure;
+  font-size:30px;
+
+}
+h3{
+  color: azure;
+}
+h4{
+  color: azure;
+}
+
+img{
+  width:250px;
+  height:200px;
+  border-radius: 25%;
+  border: 3px solid skyblue;
+  
+}
+Ul{
+  color:azure;
+}
+
+.marsh{
+  width:300px;
+  
+}
+.sky{
+  width: 300px;
+}
+
